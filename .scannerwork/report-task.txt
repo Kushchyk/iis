@@ -1,0 +1,6 @@
+projectKey=IIS-key
+serverUrl=http://192.168.2.3:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://192.168.2.3:9000/dashboard?id=IIS-key
+ceTaskId=AZx9CHuzeFVC1WFzV7TD
+ceTaskUrl=http://192.168.2.3:9000/api/ce/task?id=AZx9CHuzeFVC1WFzV7TD
